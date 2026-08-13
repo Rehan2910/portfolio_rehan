@@ -1,0 +1,27 @@
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="240" fill="#11181C"/>
+  <g stroke="#2A3438" stroke-width="1">
+    <line x1="40" y1="0" x2="40" y2="240"/><line x1="120" y1="0" x2="120" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="240"/><line x1="280" y1="0" x2="280" y2="240"/>
+    <line x1="360" y1="0" x2="360" y2="240"/>
+    <line x1="0" y1="40" x2="400" y2="40"/><line x1="0" y1="120" x2="400" y2="120"/>
+    <line x1="0" y1="200" x2="400" y2="200"/>
+  </g>
+  <!-- pose skeleton -->
+  <g stroke="#D9A441" stroke-width="2.5" fill="none" stroke-linecap="round">
+    <line x1="200" y1="70" x2="200" y2="130"/>
+    <line x1="200" y1="85" x2="160" y2="110"/>
+    <line x1="200" y1="85" x2="240" y2="110"/>
+    <line x1="200" y1="130" x2="170" y2="185"/>
+    <line x1="200" y1="130" x2="230" y2="185"/>
+  </g>
+  <circle cx="200" cy="55" r="14" fill="none" stroke="#D9A441" stroke-width="2.5"/>
+  <g fill="#0E7C7B">
+    <circle cx="200" cy="70" r="4"/><circle cx="200" cy="130" r="4"/>
+    <circle cx="160" cy="110" r="4"/><circle cx="240" cy="110" r="4"/>
+    <circle cx="170" cy="185" r="4"/><circle cx="230" cy="185" r="4"/>
+  </g>
+  <!-- bounding box -->
+  <rect x="130" y="35" width="140" height="175" fill="none" stroke="#F6F7F4" stroke-width="1.5" stroke-dasharray="6 5" opacity="0.6"/>
+  <text x="134" y="28" fill="#F6F7F4" font-family="monospace" font-size="12" opacity="0.8">PERSON 0.97</text>
+</svg>

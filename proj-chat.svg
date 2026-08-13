@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="240" fill="#11181C"/>
+  <g stroke="#2A3438" stroke-width="1">
+    <line x1="40" y1="0" x2="40" y2="240"/><line x1="120" y1="0" x2="120" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="240"/><line x1="280" y1="0" x2="280" y2="240"/>
+    <line x1="360" y1="0" x2="360" y2="240"/>
+  </g>
+  <rect x="50" y="50" width="150" height="40" rx="14" fill="#1C2529"/>
+  <rect x="200" y="105" width="150" height="40" rx="14" fill="#0E7C7B"/>
+  <rect x="50" y="160" width="120" height="40" rx="14" fill="#1C2529"/>
+  <!-- emotion waveform -->
+  <polyline points="60,215 90,205 110,225 140,200 170,220 200,195 230,222 260,205 290,218 320,208 350,215"
+    fill="none" stroke="#D9A441" stroke-width="2" opacity="0.9"/>
+  <text x="200" y="30" fill="#F6F7F4" font-family="monospace" font-size="11" text-anchor="middle" opacity="0.8">EMOTION: CALM (0.82)</text>
+</svg>

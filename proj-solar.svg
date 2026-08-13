@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="240" fill="#11181C"/>
+  <g stroke="#2A3438" stroke-width="1">
+    <line x1="40" y1="0" x2="40" y2="240"/><line x1="120" y1="0" x2="120" y2="240"/>
+    <line x1="200" y1="0" x2="200" y2="240"/><line x1="280" y1="0" x2="280" y2="240"/>
+    <line x1="360" y1="0" x2="360" y2="240"/>
+    <line x1="0" y1="40" x2="400" y2="40"/><line x1="0" y1="120" x2="400" y2="120"/>
+    <line x1="0" y1="200" x2="400" y2="200"/>
+  </g>
+  <!-- sun arc path -->
+  <path d="M 60 180 A 140 140 0 0 1 340 180" fill="none" stroke="#D9A441" stroke-width="1.5" stroke-dasharray="4 6" opacity="0.7"/>
+  <circle cx="290" cy="90" r="18" fill="#D9A441"/>
+  <g stroke="#D9A441" stroke-width="2">
+    <line x1="290" y1="60" x2="290" y2="50"/>
+    <line x1="316" y1="70" x2="323" y2="63"/>
+    <line x1="326" y1="90" x2="336" y2="90"/>
+  </g>
+  <!-- panel + servo -->
+  <rect x="150" y="150" width="90" height="14" rx="2" fill="#0E7C7B" transform="rotate(-18 195 157)"/>
+  <line x1="195" y1="164" x2="195" y2="205" stroke="#F6F7F4" stroke-width="3"/>
+  <rect x="180" y="205" width="30" height="10" fill="#F6F7F4"/>
+  <text x="150" y="30" fill="#F6F7F4" font-family="monospace" font-size="12" opacity="0.8">LDR_L: 812  LDR_R: 640</text>
+</svg>
