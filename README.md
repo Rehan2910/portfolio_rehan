@@ -83,9 +83,6 @@ The website uses custom CSS, JavaScript interactions, SVG illustrations, and res
 
 The portfolio includes a downloadable resume available through `resume.pdf`.
 
-## 🔗 Live Portfolio
-
-**Live Website:** Add your deployed portfolio URL here.
 
 ## 👨‍💻 Author
 
